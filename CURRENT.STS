@@ -1,0 +1,16 @@
+[shared-]
+	pmark=
+	version=2
+[debug-]
+	target="e:\data_s.exe"
+	watch=smallest_no'00257
+	watch=w'00257
+[cv]
+	wndstate=0 1 1 0 2 1 0 1 0 0 254
+	tilestate=1 24 0 80 0 0 0 67 0 0 5 17 0 0 0 0 34 254
+	command=use auto
+	command=n10
+	command=s2
+	command=oc-
+	command=of+
+	command=o3-
